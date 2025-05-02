@@ -1,5 +1,5 @@
-# M5StickCPlus-SmartWatch
-Simple smartwatch design using M5StickCPlus Development Board  
+# DIY Project - M5StickCPlus2-GPS-Speedometer
+GPS Speedometer using M5StickCPlus2   
 
 <img src="/Images/m5stcp.png" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/m5stcp-watch.png" height="200" > 
   
