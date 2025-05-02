@@ -34,11 +34,9 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 
 📕 **YouTube Video Links**  
 
-- This tutorial of Overview of Seeed Studio's SenseCraft AI Tool will be divided in 4 parts
+▶️  [DIY Project] GPS Speedometer using M5StickCPlus2 🔗  https://youtu.be/MY92SJlaFmg  
 
-▶️  M5StickCPlus-SmartWatch 1 🔗  https://youtube.com/shorts/gQLLJikvEz0  
-
-▶️  M5StickCPlus-SmartWatch 2 🔗  https://youtube.com/shorts/fZLYG__RQS8    
+▶️  M5StickC Plus2 – Unboxing the Pocket-Sized ESP32 Beast 🔗  https://youtube.com/shorts/mmQ-tj96U0I   
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
@@ -52,9 +50,9 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 📘 UIFLow Web IDE - 🔗 https://flow.m5stack.com/  
 
 🧰 Hardware
---   [StickC]  🔗https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit
---   [Sensors]  🔗https://shop.m5stack.com/collections/m5-sensor
---   [Unit GPS Module]  🔗https://docs.m5stack.com/en/unit/gps
+--   [StickC]  🔗https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit  
+--   [Sensors]  🔗https://shop.m5stack.com/collections/m5-sensor  
+--   [Unit GPS Module]  🔗https://docs.m5stack.com/en/unit/gps  
 
 
 ------------------------------------------------------------------------------------------------------
