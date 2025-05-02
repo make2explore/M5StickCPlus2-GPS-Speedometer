@@ -27,7 +27,8 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
     [UiFlow2](https://docs.m5stack.com/en/uiflow2/uiflow_web)  
       
 **Hardware**
-- M5StickCPlus with Watch Accessory  
+- [M5StickCPlus2](https://docs.m5stack.com/en/core/M5StickC%20PLUS2)  
+- [Unit GPS Module](https://docs.m5stack.com/en/unit/gps)  
 
 ------------------------------------------------------------------------------------------------------
 
@@ -42,7 +43,18 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
-🌐 Documentation - 🔗 https://docs.m5stack.com/en/core/m5stickc_plus  
+🌐 M5Stack - 🔗 https://docs.m5stack.com  
+📒 M5StickCPlus2 🔗 https://docs.m5stack.com/en/core/M5StickC%20PLUS2  
+📙 M5StickCPlus 🔗 https://docs.m5stack.com/en/core/m5stickc_plus  
+⚙️ UIFLow Web IDE Docs 🔗 https://docs.m5stack.com/en/uiflow/uiflow_web  
+⚙️ UIFLow2 Web IDE Docs🔗 https://docs.m5stack.com/en/uiflow2/uiflow_web  
+⚙️ Arduino IDE Docs 🔗 https://docs.m5stack.com/en/arduino/arduino_ide  
+📘 UIFLow Web IDE - 🔗 https://flow.m5stack.com/  
+
+🧰 Hardware
+--   [StickC]  🔗https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit
+--   [Sensors]  🔗https://shop.m5stack.com/collections/m5-sensor
+--   [Unit GPS Module]  🔗https://docs.m5stack.com/en/unit/gps
 
 
 ------------------------------------------------------------------------------------------------------
