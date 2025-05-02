@@ -3,10 +3,11 @@ GPS Speedometer using M5StickCPlus2
 
 <img src="/Images/gps-speed.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/gps-speed-2.jpg" height="200" > 
   
-**StickC-Plus** is the large-screen version of the M5StickC. Its main controller uses the ESP32-PICO-D4 module, which supports Wi-Fi. Inside its compact body, it integrates rich hardware resources such as infrared, RTC, microphone, LED, IMU, buttons, buzzer, PMU, and more. While retaining the original functions of the M5StickC, it adds a passive buzzer. Additionally, the screen size has been upgraded to 1.14 inches, with a resolution of 135 x 240 TFT, increasing the display area by 18.7% compared to the previous 0.96-inch screen. The battery capacity is 120mAh, and the interface supports HAT and Unit series products.
+**SGPS speedometer** Unlike traditional vehicle speedometers, which rely on the rotation of the wheels (via speed sensors or a mechanical connection), a GPS speedometer calculates speed based on satellite signals that track your movement over time.
 
-This compact and exquisite development tool can unleash unlimited creative potential. StickC-Plus can help quickly build IoT product prototypes, greatly simplifying the entire development process. Even for beginners who are just starting to learn programming, it can be used to create interesting applications and apply them to real-life scenarios.
-
+In this Project, we have made one GPS Speedometer using M5StickCPlus2 and GPS satellite positioning Unit. Which has built-in AT6558 high-performance navigation chip that supports multiple satellite navigation systems. A GPS speedometer is a device or application that uses the Global Positioning System (GPS) to determine and display your speed in real-time. 
+  
+  
 ## Documentation
 
 Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus) for more information.  
