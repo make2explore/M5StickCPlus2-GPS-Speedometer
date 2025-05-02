@@ -49,7 +49,7 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 ⚙️ Arduino IDE Docs 🔗 https://docs.m5stack.com/en/arduino/arduino_ide  
 📘 UIFLow Web IDE - 🔗 https://flow.m5stack.com/  
 
-🧰 Hardware
+🧰 Hardware  
 --   [StickC]  🔗https://shop.m5stack.com/products/m5stickc-plus2-esp32-mini-iot-development-kit  
 --   [Sensors]  🔗https://shop.m5stack.com/collections/m5-sensor  
 --   [Unit GPS Module]  🔗https://docs.m5stack.com/en/unit/gps  
