@@ -59,7 +59,7 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 
 📜 Source Code, Circuit Diagrams and Documentation : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/M5StickCPlus-SmartWatch
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/M5StickCPlus2-GPS-Speedometer  
   
 🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore  
   
