@@ -1,7 +1,7 @@
 # DIY Project - M5StickCPlus2-GPS-Speedometer
 GPS Speedometer using M5StickCPlus2   
 
-<img src="/Images/gps-speed.png" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/gps-speed-2.png" height="200" > 
+<img src="/Images/gps-speed.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/gps-speed-2.jpg" height="200" > 
   
 **StickC-Plus** is the large-screen version of the M5StickC. Its main controller uses the ESP32-PICO-D4 module, which supports Wi-Fi. Inside its compact body, it integrates rich hardware resources such as infrared, RTC, microphone, LED, IMU, buttons, buzzer, PMU, and more. While retaining the original functions of the M5StickC, it adds a passive buzzer. Additionally, the screen size has been upgraded to 1.14 inches, with a resolution of 135 x 240 TFT, increasing the display area by 18.7% compared to the previous 0.96-inch screen. The battery capacity is 120mAh, and the interface supports HAT and Unit series products.
 
