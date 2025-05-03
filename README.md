@@ -12,24 +12,24 @@ In this Project, we have made one GPS Speedometer using M5StickCPlus2 and GPS sa
 
 Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus) for more information.  
 
-
-**Software**
-- Arduino
-    [StickC-Plus Arduino Library](https://github.com/m5stack/M5StickC-Plus)  
-    [StickC-Plus Factory Test Example](https://github.com/m5stack/M5StickC-Plus/tree/master/examples/FactoryTest)  
-
-- Graphical Programming  
-    StickC-Plus UiFlow1 Quick Start Guide  
-    [UiFlow1](https://docs.m5stack.com/en/uiflow/uiflow_web)  
-      
-- UiFlow2  
-    StickC-Plus UiFlow2 Quick Start Guide  
-    [UiFlow2](https://docs.m5stack.com/en/uiflow2/uiflow_web)  
-      
 **Hardware**
 - [M5StickCPlus2](https://docs.m5stack.com/en/core/M5StickC%20PLUS2)  
 - [Unit GPS Module](https://docs.m5stack.com/en/unit/gps)  
+  
+**Software**
+- Arduino
+    [StickC-Plus2 Arduino Library](https://github.com/m5stack/M5StickC-Plus)  
+    [StickC-Plus2 Factory Test Example](https://github.com/m5stack/M5StickC-Plus/tree/master/examples/FactoryTest)  
 
+- Graphical Programming  
+    StickC-Plus2 UiFlow1 Quick Start Guide  
+    [UiFlow1](https://docs.m5stack.com/en/uiflow/uiflow_web)  
+      
+- UiFlow2  
+    StickC-Plus2 UiFlow2 Quick Start Guide  
+    [UiFlow2](https://docs.m5stack.com/en/uiflow2/uiflow_web)  
+   
+      
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Links**  
