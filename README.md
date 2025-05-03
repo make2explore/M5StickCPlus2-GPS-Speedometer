@@ -17,9 +17,9 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 - [Unit GPS Module](https://docs.m5stack.com/en/unit/gps)  
   
 **Software**
-- Arduino
-    [StickC-Plus2 Arduino Library](https://github.com/m5stack/M5StickC-Plus)  
-    [StickC-Plus2 Factory Test Example](https://github.com/m5stack/M5StickC-Plus/tree/master/examples/FactoryTest)  
+- Arduino  
+    [StickC-Plus2 Arduino Library](https://github.com/m5stack/M5StickCPlus2)  
+    [StickC-Plus2 Factory Test Example](https://github.com/m5stack/M5StickCPlus2-UserDemo)  
 
 - Graphical Programming  
     StickC-Plus2 UiFlow1 Quick Start Guide  
@@ -28,8 +28,9 @@ Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus
 - UiFlow2  
     StickC-Plus2 UiFlow2 Quick Start Guide  
     [UiFlow2](https://docs.m5stack.com/en/uiflow2/uiflow_web)  
-   
-      
+  
+- [StickC-Plus2 Firmware Burning and Program Pushing](http://docs.m5stack.com/en/uiflow/m5stickc_plus2/program)  
+
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Links**  
