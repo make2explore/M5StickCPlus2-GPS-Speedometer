@@ -3,7 +3,7 @@ GPS Speedometer using M5StickCPlus2
 
 <img src="/Images/gps-speed.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/gps-speed-2.jpg" height="200" > 
   
-**SGPS speedometer** Unlike traditional vehicle speedometers, which rely on the rotation of the wheels (via speed sensors or a mechanical connection), a GPS speedometer calculates speed based on satellite signals that track your movement over time.
+**GPS speedometer** Unlike traditional vehicle speedometers, which rely on the rotation of the wheels (via speed sensors or a mechanical connection), a GPS speedometer calculates speed based on satellite signals that track your movement over time.
 
 In this Project, we have made one GPS Speedometer using M5StickCPlus2 and GPS satellite positioning Unit. Which has built-in AT6558 high-performance navigation chip that supports multiple satellite navigation systems. A GPS speedometer is a device or application that uses the Global Positioning System (GPS) to determine and display your speed in real-time. 
   
