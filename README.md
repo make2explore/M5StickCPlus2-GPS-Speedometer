@@ -10,7 +10,7 @@ In this Project, we have made one GPS Speedometer using M5StickCPlus2 and GPS sa
   
 ## Documentation
 
-Refer the [Documentation website](https://docs.m5stack.com/en/core/m5stickc_plus) for more information.  
+Refer the [Documentation website](https://docs.m5stack.com/en/core/M5StickC%20PLUS2) for more information.  
 
 **Hardware**
 - [M5StickCPlus2](https://docs.m5stack.com/en/core/M5StickC%20PLUS2)  
